@@ -13,7 +13,7 @@ Documentation + links for the C64 upgrade project.
 | (example) | | | | |
 
 ## Drive folder
-- (paste link)
+- https://drive.google.com/drive/folders/1eSIGOz6_u6HjV1szIJh4CBuaD-XmflCE?usp=sharing
 
 ## Build notes
 - (add notes)
