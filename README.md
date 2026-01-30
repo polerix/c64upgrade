@@ -11,6 +11,7 @@ Documentation + links for the C64 upgrade project.
 | Part | Purpose | Tinkercad | STL (Google Drive) | Notes |
 |---|---|---|---|---|
 | (example) | | | | |
+| C64 screen holder upgrade | External screen holder matching C64 aesthetics | https://www.tinkercad.com/things/6Brm0crgzTa-c64-screen-holder-upgrade | (see Drive folder) | External screen matching C64 aesthetics |
 | C64 Raspberry Pi inner upgrade (set) | Inside-case parts + C64 case reference model | https://www.tinkercad.com/things/hRkwhY43SIk-c64-raspberry-pi-inner-upgrade | (see Drive folder) | Contains internal parts + model of C64 case |
 
 ## Drive folder
