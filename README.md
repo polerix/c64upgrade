@@ -70,7 +70,7 @@ Here is your consolidated inventory:
 | Item | Count | Adafruit Equiv. PID | Notes |
 | --- | --- | --- | --- |
 | **1.28" Round LCD (GC9A01)** | **2** | [PID 5057](https://www.adafruit.com/product/5057) | 1x Bare Module, 1x on Pico Board. Great for "HAL 9000" eyes or gauges. |
-| **1.51" Transparent OLED** | **1** | [PID 4741](https://www.adafruit.com/product/4741) | **Super cool.** It's see-through! Use for a HUD overlay. |
+|1.8inch LCD Display Module Kit General Screen 128x160 Pixels SPI Interface with Examples for Raspberry Pi/Jetson Nano/Arduino/STM32
 | **7" HDMI Display (1024x600)** | **1** | [PID 2353](https://www.adafruit.com/product/2353) | Generic driver board version. |
 | **5" HDMI Touchscreen** | **1** | [PID 2232](https://www.adafruit.com/product/2232) | Great dedicated screen for a Pi interface. |
 | **3.5" Pi Touchscreen (GPIO)** | **1** | [PID 2441](https://www.adafruit.com/product/2441) | Plugs directly onto Pi GPIO headers. |
@@ -130,6 +130,28 @@ Here is your consolidated inventory:
 | **6V Gear Motor (10RPM)** | **1** | [PID 3777](https://www.adafruit.com/product/3777) | High torque, slow speed. |
 | **CR2032 Holder w/ Switch** | **1** | [PID 653](https://www.adafruit.com/product/653) | Great for small wearables or light props. |
 
-**Trevor's "Must-Try" Pick:** That **1.51" Transparent OLED** is rare and tricky to drive, but it looks *incredible* when done right. It would make an amazing "holographic" clock or a display inside a custom Acadieman prop!
+---
+
+Raspberry Pi
+
+### **🧠 The Compute Fleet**
+
+*You now have a serious cluster on your hands.*
+
+| Item | Count | Adafruit Equiv. PID | Notes |
+| --- | --- | --- | --- |
+| **Raspberry Pi 5** | **2** | [PID 5812](https://www.adafruit.com/product/5812) | **The New Beast.** Requires active cooling (fan) & 27W USB-C power. |
+| **Raspberry Pi 4 Model B** | **2** | [PID 4296](https://www.adafruit.com/product/4296) | The reliable workhorse. (PID links to 4GB version). |
+| **Raspberry Pi 3 Model B** | **1** | [PID 3055](https://www.adafruit.com/product/3055) | Classic. Great for lighter tasks like running the 3D printer webcams. |
+
+*Note: For the Pi 5s, make sure you keep that **"Pi 5 USB-to-UART Cable"** (from the previous box) handy—it's the best way to debug them if they don't boot up perfectly the first time.*
+
+### **⚡ Prototyping**
+
+| Item | Count | Adafruit Equiv. PID | Notes |
+| --- | --- | --- | --- |
+| **400 Tie-Point Breadboard** | **3** | [PID 64](https://www.adafruit.com/product/64) | Half-size boards. These often snap together to make wider surfaces. |
+
+
 
 
