@@ -117,6 +117,7 @@ Here is your consolidated inventory:
 | **M2/M3/M4/M5 Screw Kit** | **1** | [PID 3299](https://www.adafruit.com/product/3299) | Huge mixed set (1760pcs). |
 | **CH341A BIOS Programmer** | **1** | N/A | Used to flash EEPROMs/BIOS chips. Very advanced! |
 | **Cable Testers (HDMI/USB)** | **2** | N/A | One HDMI breakout, one DT3 USB tester. |
+| **Keira V2** | **1** |  
 
 ---
 
