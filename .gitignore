@@ -1,0 +1,16 @@
+# macOS / editors
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+.vscode/
+*.swp
+*.log
+
+# secrets: never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+id_rsa*
